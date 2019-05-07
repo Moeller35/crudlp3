@@ -1,0 +1,16 @@
+body{
+    margin: 20px;
+}
+
+.btn-add{
+    float: right;
+    margin: 5px;
+}
+
+.btn-menu{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
